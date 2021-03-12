@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Mohamed Zouari
 
-<!--
-**zouariste/zouariste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Software Engineer at Infor, Cloud Enthusiast, and a Violinist!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some little projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on other interesting projects on GitHub.
+
+### Connect with me:
+
+[<img align="left" alt="mohamed-zouari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/mohamed-zouari/
+
+<br />
+
+<br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zouariste)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zouariste&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
