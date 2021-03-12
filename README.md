@@ -6,6 +6,13 @@
 
 - 👯 I’m looking to collaborate on other interesting projects on GitHub.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zouariste)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zouariste&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Connect with me: 
 
 [<img align="left" alt="mohamed-zouari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -15,12 +22,3 @@
 [linkedin]: https://www.linkedin.com/in/mohamed-zouari/
 
 [Email]: mailto:mohamed.zouari.engr@gmail.com
-
-<br />
-
-<br />
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zouariste)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zouariste&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
