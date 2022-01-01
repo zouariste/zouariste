@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Mohamed Zouari
 
-## I'm Software Engineer at Infor, Cloud Enthusiast, and a Violinist!
+## I'm Software Engineer at Infor, AWS Certified Developer, and a Violinist!
 
 - 🔭 I’m currently working on some little projects.
 
