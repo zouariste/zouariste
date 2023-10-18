@@ -4,15 +4,10 @@
 
 - 🔭 I’m currently working on some little projects.
 
+- 👀 I’m interested in Competitive programming and software engineering
+
 - 👯 I’m looking to collaborate on other interesting projects on GitHub.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zouariste)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zouariste&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Connect with me: 
 
 [<img align="left" alt="mohamed-zouari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -22,3 +17,8 @@
 [linkedin]: https://www.linkedin.com/in/mohamed-zouari/
 
 [Email]: mailto:mzouari@outlook.com
+
+<!---
+zouariste/zouariste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
